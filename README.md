@@ -1,6 +1,6 @@
 ### Hey, I'm Milan and Welcome To My Github!👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,firebase,html,css,ps,ai,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,firebase,html,css,sass,tailwind,ps,ai,figma)](https://skillicons.dev)
 
 <!--
 **paun03/paun03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
