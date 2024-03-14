@@ -1,4 +1,4 @@
-### Hi there, I'm Milan👋
+### Hey, I'm Milan and Welcome To My Github!👋
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,firebase,html,css,ps,ai,figma)](https://skillicons.dev)
 
