@@ -1,9 +1,9 @@
 ### Hey, I'm Milan and Welcome To My Github!👋
 
-🌍 Belgrade, Serbia.
-🌱 I’m currently learning React.
+<p>🌍 Belgrade, Serbia. </p>
+<p>🌱 I’m currently learning React. </p>
 
-SKILLS:
+<h2>SKILLS: </h2>
 [![My Skills](https://skillicons.dev/icons?i=js,react,firebase,html,css,sass,tailwind,ps,ai,figma)](https://skillicons.dev)
 
 <!--
