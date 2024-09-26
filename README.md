@@ -5,7 +5,7 @@
 
 <h2>Skills: </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,firebase,sql,html,css,sass,tailwind,ps,ai,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,firebase,html,css,sass,tailwind,ps,ai,figma)](https://skillicons.dev)
 
 <!--
 **paun03/paun03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
